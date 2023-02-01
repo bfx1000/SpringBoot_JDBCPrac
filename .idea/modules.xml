@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/JDBCPrac.iml" filepath="$PROJECT_DIR$/JDBCPrac.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SpringBoot_JDBCPrac.iml" filepath="$PROJECT_DIR$/SpringBoot_JDBCPrac.iml" />
     </modules>
   </component>
 </project>

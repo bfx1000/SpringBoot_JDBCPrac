@@ -5,11 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="83e3e5af-a7f2-4b5e-a3ca-e2268999d4dc" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/src/main/resources/application.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/application.yml1" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/application.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/application.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/application.yml1" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/cunyu/service/Impl/UserServiceImpl$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/cunyu/service/Impl/UserServiceImpl$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/application.yml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -34,30 +31,33 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RequestMappingsPanelOrder0&quot;: &quot;0&quot;,
-    &quot;RequestMappingsPanelOrder1&quot;: &quot;1&quot;,
-    &quot;RequestMappingsPanelWidth0&quot;: &quot;75&quot;,
-    &quot;RequestMappingsPanelWidth1&quot;: &quot;75&quot;,
-    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;last_directory_selection&quot;: &quot;D:/programs/workspace_idea/JDBCPrac/src/main/java/com/cunyu&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/yinxf2016/.ssh/id_rsa.pub&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;vcs.Subversion.SSH&quot;,
-    &quot;spring.configuration.checksum&quot;: &quot;1442e1fc7ff2407bbbf6b3a0ea00e2cf&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RequestMappingsPanelOrder0": "0",
+    "RequestMappingsPanelOrder1": "1",
+    "RequestMappingsPanelWidth0": "75",
+    "RequestMappingsPanelWidth1": "75",
+    "WebServerToolWindowFactoryState": "false",
+    "last_directory_selection": "D:/programs/workspace_idea/JDBCPrac/src/main/java/com/cunyu",
+    "last_opened_file_path": "D:/programs/workspace_idea/JDBCPrac",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0",
+    "settings.editor.selected.configurable": "vcs.Subversion.SSH",
+    "spring.configuration.checksum": "b8589dd9b9e59e612ce922643b100ee8",
+    "vue.rearranger.settings.migration": "true"
   },
-  &quot;keyToStringList&quot;: {
-    &quot;DatabaseDriversLRU&quot;: [
-      &quot;mysql&quot;
+  "keyToStringList": {
+    "DatabaseDriversLRU": [
+      "mysql"
     ]
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
       <recent name="com.itHeima.jdbcprac" />
@@ -77,7 +77,7 @@
       </method>
     </configuration>
     <configuration name="JdbcPracApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
-      <module name="JDBCPrac" />
+      <module name="SpringBoot_JDBCPrac" />
       <option name="SPRING_BOOT_MAIN_CLASS" value="com.cunyu.JdbcPracApplication" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -101,7 +101,10 @@
       <workItem from="1675095275898" duration="1309000" />
       <workItem from="1675124644636" duration="9685000" />
       <workItem from="1675158280714" duration="1834000" />
-      <workItem from="1675215212782" duration="429000" />
+      <workItem from="1675215212782" duration="1038000" />
+      <workItem from="1675217454387" duration="1184000" />
+      <workItem from="1675219713338" duration="27000" />
+      <workItem from="1675219742569" duration="206000" />
     </task>
     <servers />
   </component>
